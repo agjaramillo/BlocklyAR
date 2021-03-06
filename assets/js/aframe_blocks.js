@@ -54,6 +54,7 @@ Blockly.defineBlocksWithJsonArray([
                 options: [
                     ["hiro", 'hiro'],
                     ["kanji", 'kanji'],
+					["hiro2", 'hiro2'],
                 ]
             }
         ],
