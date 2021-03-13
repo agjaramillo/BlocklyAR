@@ -32,7 +32,7 @@ Blockly.defineBlocksWithJsonArray([
                 type: "input_value",
                 name: "NAME",
                 check: "attribute"
-            },
+            }, 
             {
                 type: "input_statement",
                 name: "content"
