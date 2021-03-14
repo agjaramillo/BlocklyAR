@@ -139,7 +139,7 @@ Blockly.defineBlocksWithJsonArray([
                     [{src: "assets/markers/letterD.png", width: 30, height: 30}, 'assets/patterns/letterD.patt'],
                     [{src: "assets/markers/letterG.png", width: 30, height: 30}, 'assets/patterns/letterG.patt'],
                     [{src: "assets/markers/letterF.png", width: 30, height: 30}, 'assets/patterns/letterF.patt'],
-                    [{src: "assets/markers/patternPRUEBA.png", width: 30, height: 30}, 'assets/patterns/patternPRUEBA.patt'],
+                    [{src: "assets/markers/patternPRUEBA2.png", width: 30, height: 30}, 'assets/patterns/patternPRUEBA2.patt'],
                     [{src: "assets/markers/pattern-pos1.png", width: 30, height: 30}, 'assets/patterns/pattern-pos1.patt'],
                     [{src: "assets/markers/pattern-pos2.png", width: 30, height: 30}, 'assets/patterns/pattern-pos2.patt'],
                     [{src: "assets/markers/pattern-pos3.png", width: 30, height: 30}, 'assets/patterns/pattern-pos3.patt'],
